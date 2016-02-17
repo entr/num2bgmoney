@@ -27,7 +27,7 @@
 #  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-
+global $_num0, $_num100;
 /* The functions */
 $_num0   = array(0 => "нула",1 => "един",2 => "две",3 => "три",4 => "четири",
 				 5 => "пет",6 => "шест",7 => "седем",8 => "осем",9 => "девет",
