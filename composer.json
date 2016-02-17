@@ -1,0 +1,14 @@
+{
+  "name": "gfto/num2bgmoney",
+  "description": "Convert number to bulgarian text representation",
+  "authors": [
+    {
+      "name": "Georgi Chorbadzhiyski",
+      "email": "georgi@unixsol.org"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": ["num2bgmoney.php"]
+  }
+}
